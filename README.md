@@ -1,2 +1,2 @@
 # TCPIP-test
-TCP/IPの期末試験
+TCP/IPのtest
