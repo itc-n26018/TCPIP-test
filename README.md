@@ -1,2 +1,2 @@
 # TCPIP-test
-TCP/IPのtest
+TCP/IPのテスト
